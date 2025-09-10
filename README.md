@@ -58,6 +58,9 @@ Welcome to the **Java Interview Prep Guide**! This document contains categorized
 - Core OOP Principles: Inheritance, Encapsulation, Abstraction, Polymorphism
 - Call by Value or Reference?
 - Access Modifiers: `protected`, `static`, `final`, `private`
+- Types of Inner Classes: Regular, Static, Local and Anonymous.
+- Serializable vs Externalizable
+- How many ways to create object.
 
 ### ✅ Exception Handling
 - Checked vs Unchecked
@@ -91,6 +94,7 @@ Welcome to the **Java Interview Prep Guide**! This document contains categorized
 - `map` vs `flatMap`
 - `stream()` vs `parallelStream()`
 - Custom Annotations
+- Autoclosable Interface
 
 </details>
 
@@ -116,6 +120,7 @@ Welcome to the **Java Interview Prep Guide**! This document contains categorized
 - Stereotype annotations: `@Component`, `@Service`, `@Repository`
 - `@Async`, CompletableFuture
 - `@Autowired`, `@Qualifier`, `@Primary`
+- `@RefeshSope
 
 ### ✅ Tools & Utilities
 - Spring Actuator
